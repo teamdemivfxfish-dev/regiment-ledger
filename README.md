@@ -4,6 +4,8 @@ Write a medieval muster ledger and letters of recommendation for your regiment, 
 
 **Open it here: https://teamdemivfxfish-dev.github.io/regiment-ledger/**
 
+**Or download the Windows program:** [RegimentLedger-1.0.0-portable.exe](https://github.com/teamdemivfxfish-dev/regiment-ledger/releases/download/v1.0.0/RegimentLedger-1.0.0-portable.exe) (about 95 MB). Double-click it; there is nothing to install, and it works without internet. If your browser asks, choose **Keep**. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
+
 ## How to use it
 
 1. Fill in **The Regiment** on the left: the regiment's name, your Captain, where and when.
